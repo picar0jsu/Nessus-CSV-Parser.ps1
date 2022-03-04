@@ -1,0 +1,11 @@
+﻿Host,Port,Name,Plugin Output
+192.168.183.133,443,Service Detection,A web server is running on this port through TLS
+192.168.183.133,445,Microsoft Windows SMB Service Detection,
+192.168.183.133,3389,Windows Terminal Services Enabled,
+192.168.183.133,22,Service Detection,
+127.0.0.1,443,Service Detection,A web server is running on this port through TLS
+127.0.0.1,445,Microsoft Windows SMB Service Detection,
+127.0.0.1,3389,Windows Terminal Services Enabled,
+127.0.0.1,22,Service Detection,
+127.0.0.1,2049,NFS Exported Share Information Disclosure,
+127.0.0.1,123,Network Time Protocol (NTP) Mode 6 Scanner,
