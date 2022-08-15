@@ -1,5 +1,5 @@
 # Nessus-CSV-Parser.ps1
-A simple cross-platform powershell script to parse and automatically verify Nessus scan output with Nmap automatically. Performs the following checks:
+A simple cross-platform powershell script to parse and automatically verify Nessus scan output with Nmap. Performs the following checks:
 - SSH Algorithms
 - SSL Ciphers
 - SSL Certs
