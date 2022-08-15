@@ -1,5 +1,5 @@
 # Pentest.ps1
-A simple script that parses Nessus scan output into Nmap automatically. Performs the following checks:
+A simple script that parses and verifies Nessus scan output with Nmap automatically. Performs the following checks:
 - SSH Algorithms
 - SSL Ciphers
 - SSL Certs
