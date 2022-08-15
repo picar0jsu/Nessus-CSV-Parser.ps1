@@ -1,4 +1,4 @@
-# run.ps1
+# Lazy-NessusCSVScanner.ps1
 A simple cross-platform powershell script to parse and verify Nessus scan output with Nmap automatically. Performs the following checks:
 - SSH Algorithms
 - SSL Ciphers
