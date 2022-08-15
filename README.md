@@ -10,7 +10,7 @@ A simple cross-platform powershell script to parse and verify Nessus scan output
 # Usage
 Works on both Windows and Kali PWSH (Please SU to root and then execute):
 ```
-.\Pentest.ps1 <Nessus Output>.csv
+.\run.ps1 <Nessus Output>.csv
 ```
 
 # TBC
