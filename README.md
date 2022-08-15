@@ -1,5 +1,5 @@
 # Pentest.ps1
-A simple script to parse and verify Nessus scan output with Nmap automatically. Performs the following checks:
+A simple cross-platform powershell script to parse and verify Nessus scan output with Nmap automatically. Performs the following checks:
 - SSH Algorithms
 - SSL Ciphers
 - SSL Certs
@@ -8,7 +8,7 @@ A simple script to parse and verify Nessus scan output with Nmap automatically. 
 - RDP Encryption
 
 # Usage
-Runs on both Windows and Kali powershell (Please SU to root and then execute). Execute the script against a generated Nessus csv output with the following:
+Works on both Windows and Kali PWSH (Please SU to root and then execute):
 ```
 .\Pentest.ps1 <Nessus Output>.csv
 ```
